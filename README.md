@@ -1,3 +1,3 @@
 # WhatsBot com GPT
 
-Módulo simples de implementação de WhatsApp e GPT 🤖👌
+Módulo simples de implementação de WhatsApp, GPT e Google Sheets 🤖👌
